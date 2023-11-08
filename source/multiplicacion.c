@@ -4,7 +4,7 @@
 #include "../libreria/archivom.h"
 
 
-int resta (int a, int b) 
+int multiplicacion (int a, int b) 
 {
-    return a-b;
+    return a*b;
 }
