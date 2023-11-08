@@ -9,7 +9,7 @@ int main(int argc, char const *argv[])
     scanf("%d", &a);
     printf("Ingrese el 2do valor\n");
     scanf("%d", &b);
-    printf ("El resultado es: %d\n", suma(a,b));
-    printf ("El resultado es: %d\n", resta(a,b));
+    printf ("El resultado es: %d \n", suma(a,b));
+    printf ("El resultado es: %d \n", resta(a,b));
     return 0;
 }
