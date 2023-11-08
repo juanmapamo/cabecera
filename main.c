@@ -8,6 +8,6 @@ int main(int argc, char const *argv[])
     scanf("%d", &a);
     printf("Ingrese el 2do valor");
     scanf("%d", &b);
-    printf ("El resultado es: %d", sumar(a,b));
+    printf ("El resultado es: %d", suma(a,b));
     return 0;
 }

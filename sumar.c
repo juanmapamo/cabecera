@@ -1,4 +1,6 @@
-int suma (int a, int b) {
-    
-    return 0;
+#include "archivo.h"
+
+int suma (int a, int b) 
+{
+    return a+b;
 }
